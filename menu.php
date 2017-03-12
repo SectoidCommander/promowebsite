@@ -19,7 +19,8 @@
         <div class="pgwrap">
             <div class="mnav">
                 <ul>
-                    <li role="presentation"><a href="portfolio.php">My portfolio</a></li>
-                    <li role="presentation"><a href="index.php">Home</a></li>
+                    <li role="presentation"><a href="index.php">Roger Wilco</a></li>
+                    <li role="presentation"><a href="experience.php">Experience</a></li>
+                    <li role="presentation"><a href="projects.php">Projects</a></li>
                 </ul>
             </div>

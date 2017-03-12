@@ -99,6 +99,18 @@ table.selected {
 	background-color:LightGoldenRodYellow ;
 }
 
+table.myExperience img {
+  margin:10px;
+  width:95px;
+  height:76px;
+}
+
+table.myExperience .date {
+  color:red;
+  font-style: italic;
+
+}
+
 .hidden {
 	display:none;
 }
@@ -645,4 +657,8 @@ table.fileTable tr td {
   float:right;
   cursor:pointer;
   
+}
+
+#education {
+  margin-bottom: 20px;
 }
