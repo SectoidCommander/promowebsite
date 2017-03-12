@@ -1,0 +1,4 @@
+DIV#header, DIV#newflash, DIV#banner {display: none;}
+body {}
+.print { display: none;}
+@page {size: a4}
